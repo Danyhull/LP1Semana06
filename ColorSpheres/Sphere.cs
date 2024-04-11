@@ -32,7 +32,7 @@ namespace ColorSpheres
                 Console.WriteLine("Sphere is popped can't be thrown");
             }
         }
-        public void Gettime()
+        public void GetTimesThrown()
         {
             Console.WriteLine($"Sphere was Thrown {vezesat} times");
         }
